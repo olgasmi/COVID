@@ -4,6 +4,7 @@
 The aim of this project was to check whether on the basis of the collected data the global and local prediction of 
 - the number of cases,
 - the number of deaths 
+
 casued by COVID-19 disease can be made.
 
 Data used in this project was collected by Emanuele Guidotti and David Ardia: https://covid19datahub.io/
@@ -22,7 +23,7 @@ What is more the output of:
 - SVR,
 - Regression Trees,
 - Random Regression Forest 
-- 
+
 algorithms were compared and summarized by basic metrics.
 
 --NOTE:  The above mentioned algorithms were performed with the most basic and default parameters -> there is no hypertuning of the parameters.
