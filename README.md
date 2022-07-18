@@ -22,6 +22,7 @@ What is more the output of:
 - SVR,
 - Regression Trees,
 - Random Regression Forest 
+- 
 algorithms were compared and summarized by basic metrics.
 
 --NOTE:  The above mentioned algorithms were performed with the most basic and default parameters -> there is no hypertuning of the parameters.
