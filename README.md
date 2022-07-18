@@ -2,8 +2,8 @@
 
 
 The aim of this project was to check whether on the basis of the collected data the global and local prediction of 
-a) the number of cases,
-b) the number of deaths 
+- the number of cases,
+- the number of deaths 
 casued by COVID-19 disease can be made.
 
 Data used in this project was collected by Emanuele Guidotti and David Ardia: https://covid19datahub.io/
